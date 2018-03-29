@@ -1,2 +1,2 @@
 # Encryption-Service-Webpage
-School Project
+Encryption Project
