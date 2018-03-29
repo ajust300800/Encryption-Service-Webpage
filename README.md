@@ -1,2 +1,3 @@
 # Encryption-Service-Webpage
-School Project
+Encryption Project
+Because I got a shit load of time and nothing to do. 
